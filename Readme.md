@@ -49,30 +49,8 @@ streamlit run main.py
 
 ## 📊 Sample Visual Metrics Output
 
-<table width="100%">
-  <thead>
-    <tr style="background-color: #f8f9fa;">
-      <th align="left"><b>Strategy Applied</b></th>
-      <th align="left"><b>Targeted User</b></th>
-      <th align="left"><b>Triggered DSA Logic Pipeline</b></th>
-      <th align="left"><b>Served Recommendations</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🔥 <b>Personalized Intent Scoring</b></td>
-      <td><code>U001</code> (Searched Audio)</td>
-      <td>Jaccard Similarity Match + Heap Filters</td>
-      <td>Sony WH-1000XM4, Boat Earphones</td>
-    </tr>
-    <tr>
-      <td>⭐ <b>Cold-Start Rule Fallback</b></td>
-      <td><code>New User</code> (No History)</td>
-      <td>Global Rating Sorting via Heap Arrays</td>
-      <td>iPhone 15 Pro Max (Trending #1)</td>
-    </tr>
-  </tbody>
-</table>
+👤 Personalized Context Mode (`User U001`):** The engine triggers Jaccard similarity and heap routing to recommend *Sony WH-1000XM4* and *Boat Earphones* based on implicit audio search history.
+🌐 Cold-Start Fallback Mode (`New User`):** Since no historic footprints exist, the system triggers global popularity sorting via heap arrays to recommend the top trending *iPhone 15 Pro Max*.
 
 ## 💡 Learning Outcomes
 Mastered splitting monolithic codebases into standard professional Modular Architectures.
