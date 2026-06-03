@@ -1,0 +1,9 @@
+[
+  {"id": "P101", "title": "Wireless Boat Earphones", "category": "Electronics", "tags": ["wireless", "audio", "bass"], "rating": 4.5, "price": 1499, "icon": "🎧", "bg": "linear-gradient(135deg, #FF9A9E, #FECFEF)"},
+  {"id": "P102", "title": "iPhone 15 Pro Max", "category": "Electronics", "tags": ["mobile", "apple", "premium"], "rating": 4.9, "price": 139900, "icon": "📱", "bg": "linear-gradient(135deg, #A1C4FD, #C2E9FB)"},
+  {"id": "P103", "title": "Sony WH-1000XM4", "category": "Electronics", "tags": ["audio", "noise-canceling", "premium"], "rating": 4.8, "price": 22999, "icon": "🎵", "bg": "linear-gradient(135deg, #CFD9DF, #E2EBF0)"},
+  {"id": "P104", "title": "Nike Air Max Shoes", "category": "Footwear", "tags": ["shoes", "sports", "running"], "rating": 4.3, "price": 7995, "icon": "👟", "bg": "linear-gradient(135deg, #F6D365, #FDA085)"},
+  {"id": "P105", "title": "Adidas Ultraboost", "category": "Footwear", "tags": ["shoes", "sports", "casual"], "rating": 4.2, "price": 11999, "icon": "🏃", "bg": "linear-gradient(135deg, #E2C9CC, #D99FA5)"},
+  {"id": "P106", "title": "Slim Fit Denim Jeans", "category": "Clothing", "tags": ["jeans", "apparel", "denim"], "rating": 4.0, "price": 2499, "icon": "👖", "bg": "linear-gradient(135deg, #84FAB0, #8FD3F4)"},
+  {"id": "P107", "title": "Premium Cotton T-Shirt", "category": "Clothing", "tags": ["shirt", "apparel", "cotton"], "rating": 4.1, "price": 999, "icon": "👕", "bg": "linear-gradient(135deg, #FFF1EB, #ACE0F9)"}
+]
